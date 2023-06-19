@@ -1,0 +1,3 @@
+In Python you can dispose your data.
+In Python you can create a game.
+In Python you can do everything!
